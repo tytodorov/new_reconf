@@ -1,4 +1,5 @@
 {
+  "DisplayName": "JORO",
   "CorePlugins": [
     "cordova-plugin-battery-status",
     "cordova-plugin-camera",
