@@ -1,5 +1,6 @@
 {
   "DisplayName": "JORO",
+  "AppIdentifier": "com.telerik.JORO",
   "CorePlugins": [
     "cordova-plugin-battery-status",
     "cordova-plugin-camera",
